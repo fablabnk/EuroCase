@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "name": "3mm_Endmill_doubleFlute",
+  "name": "Endmill",
   "shape": "endmill.fcstd",
   "parameter": {
-    "Chipload": "0,00 mm",
-    "CuttingEdgeHeight": "10,00 mm",
-    "Diameter": "3,00 mm",
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "10.00 mm",
+    "Diameter": "3.00 mm",
     "Flutes": "0",
-    "Length": "38,00 mm",
+    "Length": "38.00 mm",
     "Material": "HSS",
-    "ShankDiameter": "3,17 mm",
+    "ShankDiameter": "3.17 mm",
     "SpindleDirection": "Forward"
   },
   "attribute": {}
