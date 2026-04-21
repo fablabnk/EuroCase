@@ -13,18 +13,18 @@ For each:
 
 We are using: 3mm_Endmill_doubleFlute
 
-	- Feed
-		(taken from here: https://www.upload.sorotec.de/doku/manuals/Manual_Router_Set_HL.pdf)
-		- Horiz Feed: 1200mm/min
-		- Vert Feed: 500mm/min
+- Feed
+	(taken from here: https://www.upload.sorotec.de/doku/manuals/Manual_Router_Set_HL.pdf)
+	- Horiz Feed: 1200mm/min
+	- Vert Feed: 500mm/min
 
-	- Specs
-		(taken from here: https://www.sorotec.de/shop/END-Mill-Z2---3-mm-2-Flute-Fishtail-Sorotec-Edition-10886.htm)
-		- Cutting Edge Height: 10mm
-		- Diameter: 3mm
-		- Flutes: was set to 0!
-		- Length: 38mm
-		- Shank diameter: 3.17mm
+- Specs
+	(taken from here: https://www.sorotec.de/shop/END-Mill-Z2---3-mm-2-Flute-Fishtail-Sorotec-Edition-10886.htm)
+	- Cutting Edge Height: 10mm
+	- Diameter: 3mm
+	- Flutes: was set to 0!
+	- Length: 38mm
+	- Shank diameter: 3.17mm
 
 # To Do
 - Check correct tool is used and settings are correct
@@ -37,3 +37,4 @@ We are using: 3mm_Endmill_doubleFlute
 	- same as in file?
 - Export sanity check
 - Export .nc file, check for tool changes within it
+- Submit to lab Google Drive flow
